@@ -1,0 +1,6 @@
+[submodule "fall2025/proof-of-concept-method-for-inconclusiveness"]
+	path = fall2025/proof-of-concept-method-for-inconclusiveness
+	url = https://github.com/sushmaanandakoju/proof-of-concept-method-for-inconclusiveness.git
+[submodule "proof-of-concept-method-for-inconclusiveness"]
+	path = proof-of-concept-method-for-inconclusiveness
+	url = https://github.com/sushmaanandakoju/proof-of-concept-method-for-inconclusiveness.git
